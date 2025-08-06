@@ -1,2 +1,10 @@
-# TP_1_Programaci-n2_UTN_Introdducci-n_Java
-Este es mi repositorio para el Tp 1 de Programación 2
+# TP_Programacion2_UTN
+💻 Programación 2
+Tecnicatura Universitaria en Programación
+📍 Universidad Tecnológica Nacional
+
+✨ Estudiante
+Nombre: Nogueira, Damián Ignacio
+Comisión: Ag25-2C 17
+📂 Descripción del Repositorio
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 2.
